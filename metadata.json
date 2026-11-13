@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix3D Studio",
+  "description": "Offline-ready 3D motion render studio (Blender Lite) with dual User and Camera perspectives, AE-style layer timeline, 3D text animation, ground shadow controls, and standalone offline HTML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
